@@ -1,0 +1,12 @@
+flask
+flask-sqlalchemy
+flask-migrate
+flask-bcrypt
+flask-jwt-extended
+python-dotenv
+psycopg2-binary
+stripe
+geopy
+flask-socketio==5.3.6
+python-engineio==4.9.0
+python-socketio==5.11.2
